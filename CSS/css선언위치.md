@@ -12,6 +12,6 @@ css link 태그를 head 태그 안에 넣는 것은 최적화된 웹사이트를
 ### 결론 : css는 무조건 HTML의 상단에 정의 해야합니다! 왜냐하면 HTML DOM 요소가 화면에 보일때 원하는 디자인이 적용된 형태로 나타나기 때문입니다.
 
 
->참고자료
->   - https://sub0709.tistory.com/73
->   - https://velog.io/@dea8307/%EC%99%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-CSS-link-%ED%83%9C%EA%B7%B8%EB%A5%BC-headhead-%ED%83%9C%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%97%90-%EC%9C%84%EC%B9%98%EC%8B%9C%ED%82%A4%EA%B3%A0-JS-script-%ED%83%9C%EA%B7%B8%EB%A5%BC-body-%EC%A7%81%EC%A0%84%EC%97%90-%EC%9C%84%EC%B9%98%EC%8B%9C%ED%82%A4%EB%8A%94-%EA%B2%83%EC%9D%B8%EC%A7%80
+>참고자료  
+>   https://sub0709.tistory.com/73  
+>   https://velog.io/@dea8307/%EC%99%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-CSS-link-%ED%83%9C%EA%B7%B8%EB%A5%BC-headhead-%ED%83%9C%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%97%90-%EC%9C%84%EC%B9%98%EC%8B%9C%ED%82%A4%EA%B3%A0-JS-script-%ED%83%9C%EA%B7%B8%EB%A5%BC-body-%EC%A7%81%EC%A0%84%EC%97%90-%EC%9C%84%EC%B9%98%EC%8B%9C%ED%82%A4%EB%8A%94-%EA%B2%83%EC%9D%B8%EC%A7%80

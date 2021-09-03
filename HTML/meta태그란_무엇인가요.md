@@ -44,7 +44,6 @@
 - content는 단독으로 사용할 수 없습니다.
 
 > 참고자료   
-> https://junhobaik.github.io/meta-tag/
-> https://velog.io/@2seunghye/HTML-meta%ED%83%9C%EA%B7%B8  
-> https://velog.io/@jellyloveschoco/%EA%B7%B8%EB%8F%99%EC%95%88-%EB%AA%B0%EB%9E%90%EB%8D%98-Meta-%ED%83%9C%EA%B7%B8-%EC%A0%95%EB%A6%AC  
-> 
+>   https://junhobaik.github.io/meta-tag/  
+>   https://velog.io/@2seunghye/HTML-meta%ED%83%9C%EA%B7%B8  
+>   https://velog.io/@jellyloveschoco/%EA%B7%B8%EB%8F%99%EC%95%88-%EB%AA%B0%EB%9E%90%EB%8D%98-Meta-%ED%83%9C%EA%B7%B8-%EC%A0%95%EB%A6%AC  

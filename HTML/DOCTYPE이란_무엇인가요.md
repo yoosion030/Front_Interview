@@ -16,3 +16,8 @@
 결론 : HTML5에서 DOCTYPE의 유일한 목적은 완전 표준 모드를 활정화하기 위해서입니다.
 
 
+>   참고자료 
+>   - https://abcdqbbq.tistory.com/2
+>   - https://saranf-click.tistory.com/16
+
+

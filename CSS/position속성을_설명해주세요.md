@@ -22,6 +22,6 @@ position 속성의 **기본값**이며, 요소를 문서 흐름에 맞추어 배
 relative 처럼 작동하다가 스크롤 시 설정된 top, left 값 위치 도달 시 fixed 처럼 위치가 고정됩니다. 웹 페이지에서 스크롤 상단 고정 메뉴를 만들 때 사용됩니다.
 
 
->   참고자료  
->   https://www.youtube.com/watch?v=jWh3IbgMUPI&t=2s&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC  
-> https://aboooks.tistory.com/82
+`참고자료` 
+> [드림코딩 by 엘리 - CSS 레이아웃 정리 display, position 완성](https://www.youtube.com/watch?v=jWh3IbgMUPI&t=2s&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC)  
+[tistory - position 속성으로 정렬하기 ](https://aboooks.tistory.com/82)

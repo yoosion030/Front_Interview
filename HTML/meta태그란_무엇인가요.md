@@ -43,7 +43,7 @@
 - **name** 속성이나 **http-equiv** 속성과 관련된 값을 명시합니다.
 - content는 단독으로 사용할 수 없습니다.
 
-> 참고자료   
->   https://junhobaik.github.io/meta-tag/  
->   https://velog.io/@2seunghye/HTML-meta%ED%83%9C%EA%B7%B8  
->   https://velog.io/@jellyloveschoco/%EA%B7%B8%EB%8F%99%EC%95%88-%EB%AA%B0%EB%9E%90%EB%8D%98-Meta-%ED%83%9C%EA%B7%B8-%EC%A0%95%EB%A6%AC  
+`참고자료`  
+> [github - meta 태그를 알아보자](https://junhobaik.github.io/meta-tag/)  
+[velog - HTML <meta>태그](https://velog.io/@2seunghye/HTML-meta%ED%83%9C%EA%B7%B8)  
+[velog - 그동안 몰랐던 Meta 태그 정리!](https://velog.io/@jellyloveschoco/%EA%B7%B8%EB%8F%99%EC%95%88-%EB%AA%B0%EB%9E%90%EB%8D%98-Meta-%ED%83%9C%EA%B7%B8-%EC%A0%95%EB%A6%AC)

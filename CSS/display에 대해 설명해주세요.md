@@ -21,6 +21,8 @@ display 속성은 화면에 어떻게 드러나게 할지를 결정하는 속성
 ## inline-block
 `inline` 과 `div`의 특성을 합쳐놓은 속성입니다. `inline` 요소처럼 새로운 라인에서 시작하지 않고 `block`처럼 너비와 높이를 설정할 수 있습니다.
 
+## 차이점
+![](https://media.vlpt.us/post-images/chris/00ccfe60-5f8e-11e9-b975-e5b35539d0db/image.png)
 `참고자료`  
 > [tistory - [CSS] display란? / display 속성 / display 종류](https://programming119.tistory.com/97)  
 [TCP SCHOOL - 디스플레이](http://tcpschool.com/css/css_position_display)

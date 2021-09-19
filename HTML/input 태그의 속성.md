@@ -1,5 +1,15 @@
 # input태그의 타입 속성에 대해서 알고 계신가요 🙋‍♂️
 
+## 중요속성
+- type : 입력 받을 데이터의 종류 
+- alt - image : 이미지 유형에 대한 대체 속성
+- checked - radio, checkbox : 체크 되었는지의 여부 
+- autocomplete - all : 폼이나 입력필드가 자동완성 기능을 지원할 지 여부를 지정
+- placeholder - password, search, tel, text, url : 양식 컨트롤에 나타나는 내용
+- min/max - number, range, date, month, time : \<input> 요소의 최소와 최대 값을 지정
+- name : 서버로 전달되는 이름 / 폼이 제출된 후 서버에서 폼 데이터를 참조하기 위해 사용되거나, 자바스크립트에서 요소를 참조하기 위해 사용
+- value : 입력 태그의 초기값
+
 ## type 특성
 - text : 한줄의 텍스트 필드 ( 기본값 ) ⭐
 - password : 값이 가려지는 텍스트 필드
@@ -20,12 +30,6 @@
 - month : 연과 월을 지정할 수 있는 컨트롤, 시간대는 지정 x
 
 
-## 중요속성
-- alt - image : 이미지 유형에 대한 대체 속성
-- checked - radio, checkbox : 체크 되었는지의 여부 
-- autocomplete - all : 폼이나 입력필드가 자동완성 기능을 지원할 지 여부를 지정
-- placeholder - password, search, tel, text, url : 양식 컨트롤에 나타나는 내용
-- min/max - number, range, date, month, time : \<input> 요소의 최소와 최대 값을 지정
 
 `참고자료`
 > [MDN - \<input>: 입력 요소](https://developer.mozilla.org/ko/docs/Web/HTML/Element/Input)  

@@ -28,7 +28,7 @@
 - [box-sizing은 무엇인가요](https://github.com/yoosion030/Front_Interview/blob/master/CSS/box-sizing%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md)
 - [z-index에 관해 설명해주세요](https://github.com/yoosion030/Front_Interview/blob/master/CSS/z-index.md)
 - [class와 id의 차이점에 관해서 설명해주세요](https://github.com/yoosion030/Front_Interview/blob/master/CSS/class%EC%99%80%20id%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
-
+- [grid가 무엇인지 설명해보시오](https://github.com/yoosion030/Front_Interview/blob/master/CSS/grid%EB%9E%80.md)
 
 
 
@@ -41,7 +41,8 @@
 - [==와 ===의 차이가 무엇인가요](https://github.com/yoosion030/Front_Interview/blob/master/JS/%3D%3D%EC%99%80%20%3D%3D%3D.md)
 
 
-
+### INTERNET
+- [인터넷은 어떻게 작동될까요?](https://github.com/yoosion030/Front_Interview/blob/master/Internet/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%8F%99%EC%9E%91.md)
 
 ### etc.
 - [Node.js란 무엇인가요](https://github.com/yoosion030/Front_Interview/blob/master/Etc/node.js%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md)

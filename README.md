@@ -34,6 +34,8 @@
 - [Ajax란?](https://github.com/yoosion030/Front_Interview/blob/master/JS/ajax%EB%9E%80.md)
 - [비동기 처리란 ?](https://github.com/yoosion030/Front_Interview/blob/master/JS/%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%EB%9E%80.md)
 
+> [JS 면접 질문 정리](https://joshua1988.github.io/web-development/interview/frontend-questions/)
+
 ### INTERNET
 
 - [인터넷은 어떻게 작동될까요?](https://github.com/yoosion030/Front_Interview/blob/master/Internet/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%8F%99%EC%9E%91.md)
@@ -54,5 +56,4 @@
 > [프론트엔드 면접 질문 정리](https://velog.io/@ansrjsdn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)  
 > [ 프론트엔드 면접 문제 은행 ](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/#%EC%84%B1%EB%8A%A5-%EA%B4%80%EB%A0%A8-%EC%A7%88%EB%AC%B8)  
 > [프론트엔드 개발자 면접 정리](https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC)  
-> [JS 면접 질문 정리](https://joshua1988.github.io/web-development/interview/frontend-questions/)  
 > [로드맵](/Roadmap/프론트엔드%20로드맵.png)

@@ -1,4 +1,4 @@
-## 프론트엔드 면접 문제와 로드맵을 보며 기초부터 다져보기 ❗❗
+## 프론트엔드 면접 질문과 로드맵을 보며 기초부터 다져보기 ❗❗
 
 `오타나 틀린 내용이 있으면 알려주세요 피드백 언제든지 환영 🤗🤗`
 
@@ -48,8 +48,11 @@
 - [Node.js란 무엇인가요](https://github.com/yoosion030/Front_Interview/blob/master/Etc/node.js%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md)
 - [npm과 npx의 차이점을 아시나요](https://github.com/yoosion030/Front_Interview/blob/master/Etc/npm%EA%B3%BC%20npx%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%95%84%EC%8B%9C%EB%82%98%EC%9A%94.md)
 
+### 면접 질문들
+
 > [개발 면접 질문 정리 💁‍♂️](https://velog.io/@junsugi/%EA%B0%9C%EB%B0%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)  
 > [프론트엔드 면접 질문 정리](https://velog.io/@ansrjsdn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)  
 > [ 프론트엔드 면접 문제 은행 ](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/#%EC%84%B1%EB%8A%A5-%EA%B4%80%EB%A0%A8-%EC%A7%88%EB%AC%B8)  
 > [프론트엔드 개발자 면접 정리](https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC)  
+> [JS 면접 질문 정리](https://joshua1988.github.io/web-development/interview/frontend-questions/)  
 > [로드맵](/Roadmap/프론트엔드%20로드맵.png)

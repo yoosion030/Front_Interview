@@ -33,7 +33,11 @@
 - [==와 ===의 차이가 무엇인가요](https://github.com/yoosion030/Front_Interview/blob/master/JS/%3D%3D%EC%99%80%20%3D%3D%3D.md)
 - [Ajax란?](https://github.com/yoosion030/Front_Interview/blob/master/JS/ajax%EB%9E%80.md)
 - [비동기 처리란 ?](https://github.com/yoosion030/Front_Interview/blob/master/JS/%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%EB%9E%80.md)
-
+- [fetch란?](/JS/fetch%EB%9E%80.md)
+- [event버블링](/JS/event.md)
+- [async & await](/JS/async%20%26%20await.md)
+- [Promist란?](/JS/Promise.md)
+- 
 > [JS 면접 질문 정리](https://joshua1988.github.io/web-development/interview/frontend-questions/)
 
 ### INTERNET
@@ -49,6 +53,7 @@
 
 - [Node.js란 무엇인가요](https://github.com/yoosion030/Front_Interview/blob/master/Etc/node.js%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md)
 - [npm과 npx의 차이점을 아시나요](https://github.com/yoosion030/Front_Interview/blob/master/Etc/npm%EA%B3%BC%20npx%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%95%84%EC%8B%9C%EB%82%98%EC%9A%94.md)
+- [프레임워크와 라이브러리](/Etc/프레임워크와%20라이브러리.md)
 
 ### 면접 질문들
 

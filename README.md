@@ -1,6 +1,6 @@
-## 프론트엔드 면접 질문과 로드맵을 보며 기초부터 다져보기 ❗❗
+## 면접 준비
 
-`오타나 틀린 내용이 있으면 알려주세요 피드백 언제든지 환영 🤗🤗`
+오타나 틀린 내용이 있으면 알려주세요
 
 ### HTML
 
@@ -36,11 +36,10 @@
 - [fetch란?](/JS/fetch%EB%9E%80.md)
 - [event버블링](/JS/event.md)
 - [async & await](/JS/async%20%26%20await.md)
-- [Promist란?](/JS/Promise.md)
-- 
-> [JS 면접 질문 정리](https://joshua1988.github.io/web-development/interview/frontend-questions/)
+- [Promise란?](/JS/Promise.md)
+- > [JS 면접 질문 정리](https://joshua1988.github.io/web-development/interview/frontend-questions/)
 
-### INTERNET
+### WEB
 
 - [인터넷은 어떻게 작동될까요?](https://github.com/yoosion030/Front_Interview/blob/master/Internet/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%8F%99%EC%9E%91.md)
 - [호스팅은 무엇일까요?](https://github.com/yoosion030/Front_Interview/blob/master/Internet/%ED%98%B8%EC%8A%A4%ED%8C%85.md)
@@ -48,6 +47,7 @@
 - [도메인 네임은 무엇일까요?](https://github.com/yoosion030/Front_Interview/blob/master/Internet/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%84%A4%EC%9E%84.md)
 - [HTTP는 무엇일까요?](https://github.com/yoosion030/Front_Interview/blob/master/Internet/HTTP.md)
 - [DNS와 동작원리](https://github.com/yoosion030/Front_Interview/blob/master/Internet/DNS%EC%99%80%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md)
+- [쿠키와 웹스트로지의 차이점](WEB/cookie와%20storage.md)
 
 ### etc.
 
